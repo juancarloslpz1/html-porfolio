@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+img {
+    border: 5px solid white;
+    margin-left: 500px ;
+    border-image-width: 100%;
+}
+
+h1 {
+    color: whitesmoke;
+    margin-left: 575px ;
+}
+
+p {
+    color: whitesmoke;
+    margin-left: 565px;
+}
+
+div {
+    margin-top: 150px;
+}
