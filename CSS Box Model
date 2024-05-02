@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Box Mode</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body>
+  <div>
+  <img src="./assets/images/Ricky Bobby.jpg" alt="Ricky Bobby"/> 
+  <h1>Sweet Baby Jesus</h1>
+  <p>Give me the strength to finish this course.</p>
+</div>
+</body>
